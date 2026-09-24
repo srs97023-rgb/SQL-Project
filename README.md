@@ -101,3 +101,6 @@ The same dataset analyzed in the Excel, Power BI and Tableau projects gives:
 ## 🧠 Skills Demonstrated
 
 Data integration (`UNION ALL`) • Joins • Date engineering • Calculated columns • COGS and profit modeling • Data validation
+
+## 📁 Repository Files link
+https://github.com/srs97023-rgb/SQL-Project/blob/main/SQL%20_Project%20_Work_Adventure_works.sql
